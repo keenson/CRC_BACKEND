@@ -22,7 +22,7 @@ terraform {
     organization = "Thrinkshive"
 
     workspaces {
-      name = "crc-frontend"
+      name = "crc-backend"
     }
   }
 }
