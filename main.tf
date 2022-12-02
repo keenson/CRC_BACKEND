@@ -1,4 +1,5 @@
 
+
 terraform {
   cloud {
     organization = "Thrinkshive"
@@ -8,5 +9,6 @@ terraform {
     }
   }
 }
+
 
 
